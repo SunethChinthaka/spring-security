@@ -1,4 +1,4 @@
-package com.suneth.spring_security;
+package com.suneth.spring_security.model;
 
 public class Student {
     private int id;

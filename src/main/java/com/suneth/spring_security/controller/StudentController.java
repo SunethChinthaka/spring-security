@@ -1,5 +1,6 @@
-package com.suneth.spring_security;
+package com.suneth.spring_security.controller;
 
+import com.suneth.spring_security.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;
